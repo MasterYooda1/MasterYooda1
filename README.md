@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MasterYooda1
 - 👀 I’m interested in Programming (Obviously) but also Gaming
-- 🌱 I’m currently learning VB.Net
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Nothing
 - 📫 How to reach me (Please Don't)
 
