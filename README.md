@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @MasterYooda1
-- 👀 I’m interested in Programming (Obviously) but also Gaming
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on Nothing
-- 📫 How to reach me (Please Don't)
+I Can't Code
 
 <!---
 MasterYooda1/MasterYooda1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
